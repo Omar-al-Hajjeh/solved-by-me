@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AntonLetters {
+public class CF677  {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String set = scanner.nextLine();
