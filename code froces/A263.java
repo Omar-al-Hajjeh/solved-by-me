@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BeautifulMatrix {
+public class A263 {
     public static void main(String[] args) {
         int row,column = 1, x = 0;
         Scanner scanner = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BlackSquare {
+public class A431{
     public static void main(String[] args) {
         int cunt = 0;
         Scanner scanner = new Scanner(System.in);

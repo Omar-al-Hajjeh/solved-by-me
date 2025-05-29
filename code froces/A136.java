@@ -1,4 +1,4 @@
-import java.util.Arrays;
+
 import java.util.Scanner;
 
 public class A136 {
@@ -18,6 +18,6 @@ public class A136 {
             }
 
         }
-
+        
     }
 }
