@@ -13,7 +13,7 @@ public class A431{
             cunt += arr[numbers.charAt(i) - 48];
         }
         System.out.println(cunt);
-
+        scanner.close();
     }
 
 }

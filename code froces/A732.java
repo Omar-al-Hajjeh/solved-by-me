@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BuyShovel {
+public class A732 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int k, r, i;
@@ -12,6 +12,6 @@ public class BuyShovel {
             }
         }
         System.out.println(i);
-
+        
     }
 }

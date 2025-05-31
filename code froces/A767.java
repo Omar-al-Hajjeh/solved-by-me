@@ -32,5 +32,6 @@ public class A767 {
                 System.out.println("");
             }
         }
+        scanner.close();
     }
 }

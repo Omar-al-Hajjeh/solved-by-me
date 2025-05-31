@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BoyOrGaril {
+public class A236 {
     public static void main(String[] args) {
         int cunt = 0;
         int[] latters = new int[26];
@@ -20,5 +20,6 @@ public class BoyOrGaril {
         } else {
             System.out.println("CHAT WITH HER!");
         }
+        scanner.close();
     }
 }

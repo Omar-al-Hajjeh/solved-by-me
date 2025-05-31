@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CF677  {
+public class A677  {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String set = scanner.nextLine();
@@ -17,5 +17,6 @@ public class CF677  {
         }
 
         System.out.println(count);
+        scanner.close();
     }
 }

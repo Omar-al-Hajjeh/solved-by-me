@@ -11,5 +11,6 @@ public class A766 {
         } else {
             System.out.println(Math.max(a.length(), b.length()));
         }
+        scanner.close();
     }
 }
