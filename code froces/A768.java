@@ -17,5 +17,6 @@ public class A768 {
             }
         }
         System.out.println(count);
+        scanner.close();
     }
 }

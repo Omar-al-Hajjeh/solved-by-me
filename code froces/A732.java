@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class A732 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -13,5 +12,6 @@ public class A732 {
         }
         System.out.println(i);
         
+        scanner.close();
     }
 }
