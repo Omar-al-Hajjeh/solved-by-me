@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class WayTooLong {
+public class A71{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n;

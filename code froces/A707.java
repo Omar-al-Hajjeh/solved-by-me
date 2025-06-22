@@ -14,6 +14,6 @@ public class A707 {
             }
         }
         System.out.println("#Black&White");
-        
+        scanner.close();
     }
 }

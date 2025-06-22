@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FreeIceCream {
+public class A686 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         long x;
@@ -23,5 +23,6 @@ public class FreeIceCream {
 
         }
         System.out.println(x + " " + count);
+        scanner.close();
     }
 }

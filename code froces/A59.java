@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Word {
+public class A59 {
     public static void main(String[] args) {
         int upperCunt = 0, lowerCunt = 0;
         Scanner scanner = new Scanner(System.in);
@@ -18,5 +18,6 @@ public class Word {
         else {
             System.out.println(string.toUpperCase());
         }
+        scanner.close();
     }
 }

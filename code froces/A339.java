@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class HelpfulMaths {
+public class A339 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ArrayList<Integer> arr = new ArrayList<>();
@@ -24,6 +24,7 @@ public class HelpfulMaths {
                 System.out.print(arr.get(i) + "+");
 
         }
+        scanner.close();
 
     }
 }

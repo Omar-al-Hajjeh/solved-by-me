@@ -23,6 +23,6 @@ public class A43 {
             System.out.println(a);
         }
         
-
+        scanner.close();
     }
 }

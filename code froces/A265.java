@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ColorfulStones {
+public class A265 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int cunt = 1,j = 0;
@@ -10,6 +10,7 @@ public class ColorfulStones {
             if(t.charAt(i) == s.charAt(j)) {cunt++; j++;}
         }
         System.out.println(cunt);
+        scanner.close();
 
     }
 }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ShaassOskols {
+public class A294 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n, a, x, y;
@@ -33,6 +33,7 @@ public class ShaassOskols {
         for(int j : arr ){
             System.out.println(j);
         }
+        scanner.close();
 
     }
 

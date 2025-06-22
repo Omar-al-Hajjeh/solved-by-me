@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class DieRoll {
+public class A9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int y,w,b=6,a;
@@ -13,6 +13,7 @@ public class DieRoll {
         if(a == 5){a=5;b=6;}
         if(a == 6){a=1;b=1;}
         System.out.println(a + "/" + b);
+        scanner.close();
     }
     
     }

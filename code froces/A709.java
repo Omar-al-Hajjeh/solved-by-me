@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Juicer {
+public class A709 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int d, b, n, x, w = 0, cunt = 0;

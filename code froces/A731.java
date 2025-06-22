@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class NightMuseum {
+public class A731 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int x = 0, y = 0, cunt = 0;

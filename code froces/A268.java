@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Games {
+public class A268 {
     public static void main(String[] args) {
         Scanner scanner  = new Scanner(System.in);
         int cunt = 0,n = scanner.nextInt();
@@ -17,6 +17,7 @@ public class Games {
             }
         }
         System.out.println(cunt);
+        scanner.close();
 
     }
     

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SerejaAndDima {
+public class A381 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt(), firstcunt = 0, secondcunt = 0;
@@ -31,5 +31,6 @@ public class SerejaAndDima {
 x++;
         }
         System.out.println(secondcunt + " " +firstcunt);
+        scanner.close();
     }
 }

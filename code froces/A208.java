@@ -9,7 +9,7 @@ public class A208 {
             System.out.print(i + " ");
         }
         
-        
+        scanner.close();
         }
     }
 

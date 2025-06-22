@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class IsHorseshoe {
+public class A228 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] arr = new int[4];
@@ -17,5 +17,6 @@ public class IsHorseshoe {
                 cunt++;
         }
         System.out.println(cunt);
+        scanner.close();
     }
 }
